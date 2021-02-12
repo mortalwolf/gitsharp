@@ -1,2 +1,2 @@
-# gitsharp
-help C# Codeing
+# Gitsharp
+Help C# Codeing
