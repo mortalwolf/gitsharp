@@ -1,5 +1,5 @@
 ## Gitsharp
-Help C# Codeing
+Help C# Coding
 
 ## Share Your C# Codes
 
